@@ -1,0 +1,4 @@
+- Sanal Ortam Oluşturmak için = python -m venv _virtual_envoriement_name_
+- Sanal Ortamı Aktif etmek için = venv\Scripts\activate
+- requirements.txt dosyasının içindekileri yüklemek = pip install -r requirements.txt
+- Backend çalıştırmak için = uvicorn main:app --reload
